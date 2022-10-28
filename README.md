@@ -68,4 +68,10 @@ Analyzed 3M+ grocery orders data from more 200k+ users to increase profitability
 
 #### Frequently reordered product by weekly buyers
 
+
+![Screen Shot 2022-10-28 at 1 08 35 PM](https://user-images.githubusercontent.com/68578215/198724154-3194956a-c4b1-4b65-b632-74c187c10f73.png)
+
+
 #### Frequently reordered product by monthly buyes
+
+![Screen Shot 2022-10-28 at 1 08 40 PM](https://user-images.githubusercontent.com/68578215/198724151-ec6563d6-d887-4b35-92e9-3a4ce707b229.png)
