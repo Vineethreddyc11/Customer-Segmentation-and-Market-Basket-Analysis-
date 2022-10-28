@@ -53,7 +53,7 @@ Analyzed 3M+ grocery orders data from more 200k+ users to increase profitability
 
 ![Screen Shot 2022-10-28 at 1 53 40 PM](https://user-images.githubusercontent.com/68578215/198730706-dae3885c-bbbd-4970-8060-31b17db54fd0.png)
 
-### Exploratory Data Analysis 
+## Exploratory Data Analysis using Python
 
 #### Number of Products by Department
 
