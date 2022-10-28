@@ -16,6 +16,36 @@ Analyzed 3M+ grocery orders data from more 200k+ users to increase profitability
 
 ![Screen Shot 2022-10-28 at 1 26 09 PM](https://user-images.githubusercontent.com/68578215/198726446-777d43b0-c1fb-4f5a-adeb-12acce4ec239.png)
 
+## Business Model
+
+- Customers access Instacart’s platform via website or app. Whenever an order is placed on the platform, the so-called personal shoppers in proximity will receive a notification of the request. These shoppers are independent contractors, and they receive by delivery made. Once a shopper accepts the request, they drive to the grocery store chosen, pick up the groceries and deliver them to the customer’s address.
+#### Revenue Stream
+- Commissions
+  - Every time an item is sold through Instacart’s platform, the company receives a percentage of the price, according to the agreement made with the retailer. In some cases, Instacart even sells some products at a higher price to increase markup.
+- Delivery and Service Fees (Price Discrimination)
+  - Delivery fees vary from USD 3.99 - 9.99. Because Instacart, just like other platforms, such as Uber or Lyft, charges according to the demand and external conditions (such as the weather), the so-called surge pricing. And also due to shipment scheduling. These fees are distributed between the store and Instacart. The service fees (mark-up prices) get around 5% to 10% of the purchase. Sometimes, there are additional fees, for example, when an order surpasses a certain weight threshold or when there is a bag fee.
+- Subscription
+  - The company has the Instacart Express. It is a subscription service that ensures unlimited deliveries (or orders above USD 35), cheaper service fees, and no surge pricing for an annual (USD 99) or monthly fee (USD 9.99).
+- Advertising
+  - Sellers and brands can advertise on the platform, for additional visibility. The price will depend on the categories and search terms. Usually, advertisers set a budget previously, to avoid overspending.
+#### Cost Structure
+- Technological maintenance
+- Salaries
+- Shoppers payment
+- Payment processing fees
+- Administration and operations
+- Marketing
+#### Key Customer
+**Users:** People who don’t like shopping, elderly people, people who have a tight schedule; Users can schedule orders for a specific day and time.
+
+**Shopper:** People with a smartphone and a vehicle (car or bicycle), people who love shopping, people who need an additional income.
+
+**Partner Stores:** The ones that want to increase their sales, and those that want to reach out to more customers.
+#### Value Proposition
+**Users:** A convenient way to shop for groceries, quick delivery, vast inventory;
+**Shoppers:** Flexible working schedule, additional income, part-time work;
+**Stores:** Additional sales, increase in the number of customers.
+
 ![Screen Shot 2022-10-28 at 1 26 34 PM](https://user-images.githubusercontent.com/68578215/198726444-e8773355-b566-4c3d-adc2-466e19372dcc.png)
 
 
