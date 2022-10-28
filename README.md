@@ -75,3 +75,10 @@ Analyzed 3M+ grocery orders data from more 200k+ users to increase profitability
 #### Frequently reordered product by monthly buyes
 
 ![Screen Shot 2022-10-28 at 1 08 40 PM](https://user-images.githubusercontent.com/68578215/198724151-ec6563d6-d887-4b35-92e9-3a4ce707b229.png)
+
+#### users with orders containing only reordered products
+
+![Screen Shot 2022-10-28 at 1 17 20 PM](https://user-images.githubusercontent.com/68578215/198724715-d064fe26-2bec-41af-8a2d-f2ac176b366b.png)
+
+- User_id 99753 have 99 orders which contains only reordered items
+- Followed by User 26489 and 100935
