@@ -1,4 +1,8 @@
+
+![1_DHfQvlMVBaJCHpYmj1kmCw](https://user-images.githubusercontent.com/68578215/198731722-d806271a-af9b-4ca7-b879-88ab390ffdab.png)
+
 # Customer-Segmentation-and-Market-Basket-Analysis-
+
 Analyzed 3M+ grocery orders data from more 200k+ users to increase profitability by leveraging customer transaction behavior and purchasing history and discovered hidden association rules between products for better cross-selling and upselling.
 
 ## Introduction
