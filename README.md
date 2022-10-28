@@ -1,6 +1,27 @@
 # Customer-Segmentation-and-Market-Basket-Analysis-
 Analyzed 3M+ grocery orders data from more 200k+ users to increase profitability by leveraging customer transaction behavior and purchasing history and discovered hidden association rules between products for better cross-selling and upselling.
 
+## Introduction
+- Instacart is an American company that operates a grocery delivery and pick-up service in the United States and Canada. The company offers its services via a website and mobile app. The service allows customers to order groceries from participating retailers with the shopping being done by a personal shopper.
+
+- With the large customer base, the company collects data of the users’ transactions behaviour and purchasing history.
+
+- The objective of this study is to increase profitability by tailoring suitable marketing approach and find key driver to used as a lever to improve profit.
+
+- The dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.
+
+- Dataset: https://www.kaggle.com/c/instacart-market-basket-analysis
+
+
+
+![Screen Shot 2022-10-28 at 1 26 09 PM](https://user-images.githubusercontent.com/68578215/198726446-777d43b0-c1fb-4f5a-adeb-12acce4ec239.png)
+
+![Screen Shot 2022-10-28 at 1 26 34 PM](https://user-images.githubusercontent.com/68578215/198726444-e8773355-b566-4c3d-adc2-466e19372dcc.png)
+
+
+
+
+
 ### Exploratory Data Analysis 
 
 #### Number of Products by Department
