@@ -55,9 +55,9 @@ Analyzed 3M+ grocery orders data from more 200k+ users to increase profitability
 https://user-images.githubusercontent.com/68578215/203475047-95c478fc-fbcc-4be0-82c1-b235f6d4f0e4.mov
 
 
-![Screen Shot 2022-10-28 at 1 53 14 PM](https://user-images.githubusercontent.com/68578215/198730713-5797faf3-a12d-4df6-a925-0084d700d7d9.png)
 
-![Screen Shot 2022-10-28 at 1 53 40 PM](https://user-images.githubusercontent.com/68578215/198730706-dae3885c-bbbd-4970-8060-31b17db54fd0.png)
+
+![MBA](https://user-images.githubusercontent.com/68578215/203475361-f5d2b2cd-0d2d-4939-b0c9-bd83402545ff.jpg)
 
 ## Exploratory Data Analysis using Python
 
