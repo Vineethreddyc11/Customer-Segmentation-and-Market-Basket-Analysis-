@@ -52,7 +52,9 @@ Analyzed 3M+ grocery orders data from more 200k+ users to increase profitability
 
 ## Tableau Dahboard
 
-https://user-images.githubusercontent.com/68578215/203475047-95c478fc-fbcc-4be0-82c1-b235f6d4f0e4.mov
+
+
+https://user-images.githubusercontent.com/68578215/203475917-8b5ce11e-3543-4804-bf9b-c20b605a9ee7.mov
 
 
 
